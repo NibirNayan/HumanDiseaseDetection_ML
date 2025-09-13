@@ -11,10 +11,10 @@ This project have the following features:
 ## Repository Contents
 
 The project is structured to organize data and models for easy access:
-    - deployed_streamlit.py: The main Python script that contains the Streamlit application logic and serves the web interface.
-    - models_training.ipynb: A Jupyter Notebook file that shows the process of training and evaluating the machine learning models.
-    - datasets/: This directory stores the data, including a CSV file of medical symptoms and diseases used for training the models.
-    - artifacts/: This directory contains the trained machine learning models, which are loaded by the app.py script to make predictions.
+- deployed_streamlit.py: The main Python script that contains the Streamlit application logic and serves the web interface.
+- models_training.ipynb: A Jupyter Notebook file that shows the process of training and evaluating the machine learning models.
+- datasets/: This directory stores the data, including a CSV file of medical symptoms and diseases used for training the models.
+- artifacts/: This directory contains the trained machine learning models, which are loaded by the app.py script to make predictions.
 
 ## Live Demo
 
