@@ -3,7 +3,7 @@
 This repository contains the code for a web application that predicts human diseases based on symptoms. The application is built with Streamlit, and the core functionality is powered by several machine learning models.
 
 ## Features
-
+This project have the following features:
     - Interactive UI: A user-friendly interface built with Streamlit allows users to input symptoms.
     - Machine Learning Models: The application utilizes multiple pre-trained machine learning models including SVM, Random Forest, Decision Tree, Naive Bayes, and KNN to predict potential diseases.
     - Real-time Prediction: Provides instant predictions based on the user's input.
